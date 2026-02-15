@@ -52,7 +52,7 @@ kingCountryHouses/
 ├── king_county_house_price_prediction.ipynb    # Main analysis notebook
 ├── README.md                                   # This file
 ├── requirements.txt                            # Python dependencies
-├── KC_House_Price_Prediction.ppt               # Presentation slides summarizing findings
+├── KC_House_Price_Prediction.pdf               # Presentation slides summarizing findings
 ├── models/
 │   └── best_model.pkl                          # Serialized best model: regularized XGBoost model
 ├── data/
